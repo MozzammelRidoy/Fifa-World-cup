@@ -278,7 +278,7 @@
 }
     .menu-bar a{
         text-decoration: none;
-        font-size: 3.5vh; 
+        font-size: 24px; 
         background-color: #FFFF;
         border: 1px solid #E8E8E8;
         border-radius: 6px;
@@ -289,13 +289,13 @@
 
 }
 .upcoming-match a{
-    padding: 12px 21%;
+    padding: 12px 20px;
 }
 .all-group a{
-    padding: 12px 33%;
+    padding: 12px 70px;
 }
 .blog a{
-    padding: 12px 40%;
+    padding: 12px 102px;
     background-color: #DD0000;
     color: #FFFFFF;
 }
