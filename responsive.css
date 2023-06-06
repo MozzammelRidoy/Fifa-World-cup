@@ -253,7 +253,7 @@
 
 .main-content{
 
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -276,6 +276,7 @@
     text-align: center;
     width: 90%;
     margin: 0 auto;
+    margin-bottom: 40px;
 }
     .menu-bar a{
         text-decoration: none;
